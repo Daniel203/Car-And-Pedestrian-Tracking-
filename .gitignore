@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode
+.vscode/
+
+# no assets in the repo
+assets/
